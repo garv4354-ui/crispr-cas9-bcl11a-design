@@ -4,9 +4,8 @@ title: "CRISPR-Cas9 guide design for BCL11A (in silico)"
 abstract: "In-silico SpCas9 guide design for a BCL11A coding exon (CHOPCHOP, CRISPOR). All values are computational predictions."
 type: dataset
 authors:
-  - family-names: "YOUR_FAMILY_NAME"
-    given-names: "YOUR_GIVEN_NAME"
-    affiliation: "YOUR_INSTITUTION"
+  - names: Garv Gupta.
+    affiliation: SMVDU
 version: "1.0.0"
 date-released: "2026-11-07"
 license: MIT
