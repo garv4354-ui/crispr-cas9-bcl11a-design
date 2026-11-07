@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "CRISPR-Cas9 guide design for BCL11A (in silico)"
-abstract: "In-silico SpCas9 guide design for a BCL11A coding exon (CHOPCHOP, CRISPOR). All values are computational predictions."
+abstract: "In-silico SpCas9 guide design for a BCL11A coding exon (CHOPCHOP, CRISPOR)."
 type: dataset
 authors:
-  - names: Garv Gupta.
-    affiliation: SMVDU
-version: "1.0.0"
-date-released: "2026-11-07"
+  - family-names: "Gupta"
+    given-names: "Garv"
+version: "1.0.2"
+date-released: "2026-11-08"
 license: MIT
 repository-code: "https://github.com/garv4354-ui/crispr-cas9-bcl11a-design"
 keywords:
