@@ -22,5 +22,3 @@ Part of a four-repository project. Comparison and shared code: `genome-editors-b
 - Tools were accessed on 24 October 2026; the genome build is GRCh38/hg38.
 - Tool screenshots show a faint "Activate Windows" watermark; recapture them before journal submission.
 
-## Cite
-See `CITATION.cff` (Zenodo DOI: add after the first release).
