@@ -1,0 +1,11 @@
+statistic,predicted_value
+frameshift_frequency_percent,83.91
+frame_plus0_percent,16.09
+frame_plus1_percent,47.58
+frame_plus2_percent,36.33
+one_bp_insertion_percent,6.46
+highest_deletion_percent,19.10
+highest_insertion_percent,3.95
+microhomology_deletion_percent,77.42
+microhomology_less_deletion_percent,16.12
+precision_score,0.47

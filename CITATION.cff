@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "CRISPR-Cas9 guide design for BCL11A (in silico)"
+abstract: "In-silico SpCas9 guide design for a BCL11A coding exon (CHOPCHOP, CRISPOR)."
+type: dataset
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    affiliation: "[Institution]"
+version: "1.0.0"
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/[your-username]/crispr-cas9-bcl11a-design"
+keywords:
+  - BCL11A
+  - genome editing
+  - in silico design

@@ -1,0 +1,9 @@
+tool,metric,value
+CRISPOR v5.2,MIT specificity,94
+CRISPOR v5.2,CFD specificity,98
+CRISPOR v5.2,Doench 2016,77
+CRISPOR v5.2,Moreno-Mateos,64
+CRISPOR v5.2,Rule Set 3,81
+CRISPOR v5.2,Out-of-frame,73
+CRISPOR v5.2,Lindel,84
+CRISPOR v5.2,off-targets 0/1/2/3/4 mismatches,0/0/0/4/44
