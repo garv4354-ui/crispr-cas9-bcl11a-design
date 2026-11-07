@@ -20,5 +20,5 @@ Part of a four-repository project. Comparison and shared code: `genome-editors-b
 ## Important limits
 - Everything here is a computational prediction or rule-based count. Nothing was built or tested in the laboratory.
 - Tools were accessed on 24 October 2026; the genome build is GRCh38/hg38.
-- Tool screenshots show a faint "Activate Windows" watermark; recapture them before journal submission.
+
 
